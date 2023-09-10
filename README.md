@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java and Javascript**
 
-- 🤝 I’m looking for help with [Multi-step form](https://github.com/SymonMuchemi/multi-step-form)
+- 🤝 I’m looking for help with [Libray management system](https://github.com/SymonMuchemi/my-book-shelf)
 
-- 📝 I regularly write articles on [https://muchemi.hashnode.dev/](https://muchemi.hashnode.dev/)
+- 📝 I regularly write articles on [hashnode](https://muchemi.hashnode.dev/)
 
 - 💬 Ask me about **Web Development**
 
