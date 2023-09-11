@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon Muchemi</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Multi-step form](https://github.com/SymonMuchemi/multi-step-form)
+- 🔭 I’m currently working on [Libray management system](https://github.com/SymonMuchemi/my-book-shelf)
 
 - 🌱 I’m currently learning **Java and Javascript**
 
-- 🤝 I’m looking for help with [Libray management system](https://github.com/SymonMuchemi/my-book-shelf)
+- 🤝 I’m looking for help with [Multi-step form](https://github.com/SymonMuchemi/multi-step-form)
 
 - 📝 I regularly write articles on [hashnode](https://muchemi.hashnode.dev/)
 
