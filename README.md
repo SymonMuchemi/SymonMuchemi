@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Library management system](https://github.com/SymonMuchemi/my-book-shelf)
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Spring Boot and React**
 
 - 🤝 I’m looking for help with [Multi-step form](https://github.com/SymonMuchemi/multi-step-form)
 
