@@ -7,7 +7,7 @@
    <h2 align="center">About Me:</h2>
    <ul style="list-style-position: inside;">
        <p align="center">I'm a programmer at heart, always on the lookout for interesting challenges to tackle.
-       I believe in the power of learning and constantly improving my skills.
+       I believe in the power of colaborative learning and constantly improving my skills.
        My curiosity knows no bounds, especially when I'm deep into coding. There's always more to explore and discover!</p>
    </ul>
 
