@@ -16,7 +16,7 @@
    <h2 align="center"> My Skills and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,java,php,mysql,git,github,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,java,mysql,git,github,vscode&perline=7" />
   </a>
 </p>
 
