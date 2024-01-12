@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Simon Muchemi</h1>
+![](lion_cub.jpeg)
+
+<h1 align="center">Simon Muchemi 🦁</h1>
 <!DOCTYPE html>
 <html>
 <body>
@@ -6,14 +8,13 @@
 
    <h2 align="center">About Me:</h2>
    <ul style="list-style-position: inside;">
-       <p align="center">I'm a programmer at heart, always on the lookout for interesting challenges to tackle.
-       I believe in the power of colaborative learning and constantly improving my skills.
-       My curiosity knows no bounds, especially when I'm deep into coding. There's always more to explore and discover!</p>
+       <p align="center">
+           Simon is a passionate a go-getter, a coffee-to-code machine and a lover of all thing programming.</p>
    </ul>
 
    <h2 align="center">What to Expect:</h2>
-   <p align="center">Here, you'll find a collection of projects, code snippets, and insights that reflect my journey as a developer. Whether it's solving complex problems, experimenting with new technologies, or sharing my experiences, this repository is a testament to my dedication to the craft of coding.</p>
-   <h2 align="center"> My Skills and Tools</h2>
+   <p align="center">Here, you'll find a collection of projects, code snippets, and insights that reflect his developer journey. Whether it's solving complex problems, experimenting with new technologies, or sharing his experiences, this repository is a testament to his dedication to the craft of coding.</p>
+   <h2 align="center"> His Skills and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,firebase,java,mysql,git,github,vscode&perline=7" />
