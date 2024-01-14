@@ -24,7 +24,6 @@ I'm a Kemyan software engineer focusing on web and mobile app development who st
 
 <br>
 
-#
 
 
 ## 📊 Stats
