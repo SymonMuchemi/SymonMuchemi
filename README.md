@@ -26,8 +26,8 @@ I'm a Kemyan software engineer focusing on web and mobile app development who st
 
 ## Featured articles
 
-[![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/introduction-to-java&large=false&theme=dark)](intro to Java)
-[![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/the-sliding-window-technique&large=false&theme=dark)](intro to Java)
+![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/introduction-to-java&large=false&theme=dark)]
+![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/the-sliding-window-technique&large=false&theme=dark)
 
 <a href="BLOG_URL">
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=url=https://muchemi.hashnode.dev/the-sliding-window-technique&large=false&theme=dark" alt="Sourav Dey's Hashnode Blog Cards" />
