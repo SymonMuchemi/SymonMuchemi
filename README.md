@@ -23,8 +23,6 @@ I'm a Kemyan software engineer focusing on web and mobile app development who st
 
 #
 
-<br>
-
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&hide=issues&show_icons=true&theme=great-gatsby)](https://github.com/symonmuchemi/github-readme-stats)
