@@ -29,7 +29,7 @@ I'm a Kenyan software engineer focusing on web and mobile app development, who s
 <a href="https://muchemi.hashnode.dev/introduction-to-java">
   <img src='article-1.jpg' width='210px' height='260px'/> 
 <a/>
-<a href="https://https://muchemi.hashnode.dev/the-sliding-window-technique">
+<a href="https://muchemi.hashnode.dev/the-sliding-window-technique">
   <img src='article-2.jpg' width='210px' height='260px'/> 
 <a/>
   
