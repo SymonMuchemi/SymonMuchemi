@@ -26,8 +26,14 @@ I'm a Kenyan software engineer focusing on web and mobile app development, who s
 
 ## Featured [Articles](https://hashnode.com/@Muchemi)
 
-![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/introduction-to-java&large=false&theme=dark)
-![intro-to-java-card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://muchemi.hashnode.dev/the-sliding-window-technique&large=false&theme=dark)
+<a href="https://muchemi.hashnode.dev/introduction-to-java">
+  <img src='article-1.jpg' width='210px' height='260px'/> 
+<a/>
+<a href="https://https://muchemi.hashnode.dev/the-sliding-window-technique">
+  <img src='article-2.jpg' width='210px' height='260px'/> 
+<a/>
+  
+<br/>
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&show_icons=true&theme=great-gatsby)](https://github.com/symonmuchemi/github-readme-stats)
