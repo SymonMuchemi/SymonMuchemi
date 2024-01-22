@@ -23,9 +23,11 @@ I'm a Kenyan software engineer focusing on web and mobile app development, who s
 <br>
 
 #
-
-## Featured [Articles](https://hashnode.com/@Muchemi)
-
+<details>
+<summary>
+  &nbsp;&nbsp;&nbsp;<h2>Featured <a href='https://hashnode.com/@Muchemi'>Articles</a></h2>
+  <hr>
+</summary>
 <a href="https://muchemi.hashnode.dev/introduction-to-java">
   <img src='article-1.jpg' width='210px' height='260px'/> 
 <a/>
@@ -34,6 +36,7 @@ I'm a Kenyan software engineer focusing on web and mobile app development, who s
 <a/>
   
 <br/>
+</details>
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&show_icons=true&theme=great-gatsby)](https://github.com/symonmuchemi/github-readme-stats)
