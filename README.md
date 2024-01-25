@@ -39,4 +39,4 @@ I'm a Kenyan software engineer focusing on web and mobile app development, who s
 </details>
 
 ## 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&show_icons=true&theme=great-gatsby)](https://github.com/symonmuchemi/github-readme-stats)
+[![Muchemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&show_icons=true&theme=great-gatsby)](https://github.com/symonmuchemi/github-readme-stats)
