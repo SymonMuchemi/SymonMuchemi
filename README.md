@@ -1,8 +1,8 @@
 # 🦁 Simon Muchemi
 
-`Full stack developer`<br>
+`Full stack software engineer`<br>
+I build products for both frontend and backend applications. 
 
-I'm a Kenyan software engineer focusing on web and mobile app development, who studied at the [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/). Additionally, I did the software engineering course at [ALx Africa](https://www.alxafrica.com/about/). I work on projects and solve problems on [leetcode](https://leetcode.com) and [Hackerrank](https://www.hackerrank.com/profile/simonkenya846) and I love sharing the things I learn on [hashnode](https://hashnode.com/@Muchemi). Tackling challenging problems and finding solutions are the reasons I love coding and programming.
 
 ****
 ## Languages and Tools
