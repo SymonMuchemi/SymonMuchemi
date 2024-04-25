@@ -1,7 +1,7 @@
 # 🦁 Simon Muchemi
 
 `Full stack software engineer`<br>
-I build products for both frontend and backend applications. 
+I love web development,RESTful API, AI integrations and algorithms. 
 
 
 ****
