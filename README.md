@@ -1,8 +1,9 @@
 # 🦁 Simon Muchemi
 
-`Full stack software engineer`<br>
-I love web development,RESTful API, AI integrations and algorithms. 
-
+`Software Engineer`
+<br>
+<br>
+Welcome to my GitHub profile! I'm a passionate software developer with a knack for problem-solving and a love for clean, efficient code. With a background in Python, Spring Boot Java, react js and C-programming, I thrive in collaborative environments where innovation and creativity are encouraged. My projects here showcase my dedication to crafting reliable solutions and my commitment to continuous learning and improvement. Let's connect and create something amazing together!
 
 ****
 ## Languages and Tools
