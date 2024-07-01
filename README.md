@@ -1,8 +1,8 @@
 # Hi there 👋 , Muchemi Here!
 
-- 🌱 I’m currently completing my CS degree at [Dekut](https://www.dkut.ac.ke/)
+- 🌱 I’m currently polishing my skills in python-flask, redis, css and reactJs.
 - 👯 I’m looking to collaborate on any project
-- 📫 How to reach me mail to: **muchemi.developer@gmail.com**
+- 📫 How to reach me? mail to: **muchemi.developer@gmail.com**
 
 ## Languages and Tools
 
