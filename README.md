@@ -22,10 +22,6 @@
   <img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-## 📊 Stats
-
-[![Muchemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=symonmuchemi&show_icons=true&theme=dark)](https://github.com/symonmuchemi/github-readme-stats)
-
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/symonmuchemi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
