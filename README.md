@@ -29,3 +29,10 @@
   <a href="mailto:muchemi.developer@gmail.com?subject=Hello%Muchemi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://wa.me/+254703552982?text=Hey%20Muchemi,%20I%20%20Got%20your%20number%20from%20GitHub"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<p align="center">
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=symonmuchemi&theme=react-dark&hide_border=true">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=symonmuchemi&theme=react&hide_border=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="symonmuchemi" />
+    
+<img width="48%" src="https://streak-stats.demolab.com/?user=symonmuchemi&theme=react&hide_border=true&background=0D1117" alt="symonmuchemi" />
+</p>
