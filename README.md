@@ -1,23 +1,30 @@
-### Hi there 👋, my name is Muchemi
-#### I am a Web Developer
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there, I'm Simon 👋
 
-I am backend web developer with experience in front-end development. I have been learning about Python-Flask and doing full stack projects with ReactJS. I enjoy learning new things and discovering better methods of coding.
+I'm an aspiring software engineer with a passion for building projects that combine backend expertise, AI, and data insights. Currently diving deep into **data-driven application design** and **algorithm optimization**!
 
-Skills: REACT/ JS/ PYTHON/ FLASK/ GIT/ GITHUB/ JAVA/ C/ BASH
+---
 
-- 🔭 I’m currently working on a pet adoption [website](https://github.com/SimbaDevs/PetHaven) 
-- 🌱 I’m currently learning Flask 
-- 👯 I’m looking to collaborate on any web related project 
-- 💬 Ask me about Flask, ReactJS, Python, JavaScrip 
-- 📫 How to reach me: muchemi.developer@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: “Programmer: A machine that turns coffee into code.” - Unknown 
+### 🔧 Tech Stack
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks**: Express.js, Flask
+- **Libraries**: TensorFlow
+- **Databases**: PostgreSQL
+- **Tools**: Xata, Git, Docker
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SymonMuchemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](SymonMuchemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SymonMuchemi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SymonMuchemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/SymonMuchemi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SymonMuchemi)  
+### 🚀 Projects
+- **[FinSight](https://github.com/symonmuchemi/FinSight)**: A financial insights app that leverages AI for predictive analytics. Built with Express, Flask microservices, and PostgreSQL.
+- **[Therabot](https://github.com/Thera-Bot/TheraBot-AI.git)**: An GPT-powered psychotherapist that interacts with the user through text in an empathetic manner..
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SymonMuchemi&show_icons=true&count_private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/SymonMuchemi)  
+### 🌱 Currently Learning
+- In-depth **Typescript Web Development** and **System Design**
+- Preparing for **data structure and algorithm** technical interviews
+- Building scalable architectures with Express and AI integration
 
+---
+
+### 💬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/symonmuchemi) | [Portfolio](https://muchemi.vercel.app/) | [Email](mailto:muchemi.developer@gmail.com)
