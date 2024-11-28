@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-I'm an aspiring software engineer with a passion for building projects that combine backend expertise, AI, and ML. Currently diving deep into **Backend Development** and **Qualitiy Assurance/Quality Engineering**!
+I'm an aspiring software engineer with a passion for building projects that combine backend expertise, AI, and ML. Currently diving deep into **Backend Development** and **Sytem Design**!
 
 ## Languages and Tools
 
