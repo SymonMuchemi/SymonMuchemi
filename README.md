@@ -1,6 +1,15 @@
 # Hi there, I'm Simon 👋
 
-I'm an aspiring software engineer with a passion for building projects that combine backend expertise, AI, and ML. Currently diving deep into **Backend Development** and **Sytem Design**!
+I'm a Software Engineer with over a year of experience, specializing in backend development with a solid foundation in frontend technologies. I’m also passionate about **Quality Assurance (QA)** and **Quality Engineering (QE)**, ensuring robust and reliable backend applications through thorough testing.
+
+- 🔭 Currently wrapping up my Software Engineering course at [ALX Africa](https://www.alxafrica.com/).  
+- 🌱 Expanding my knowledge in **System Design** and **DevOps**.  
+- 👯 Open to collaborating on impactful open-source web projects.  
+- 💬 Feel free to ask me about *System Design, Backend Development, or QA/QE*!  
+
+<hr>
+🚀 Current Project:
+- Building an e-commerce platform API to support scalable e-commerce applications.
 
 ## Languages and Tools
 
