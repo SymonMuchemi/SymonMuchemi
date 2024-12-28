@@ -1,11 +1,12 @@
 # Hi there, I'm Simon 👋
 
-I'm a Software Engineer with over a year of experience, specializing in backend development with a solid foundation in frontend technologies. I’m also passionate about **Quality Assurance (QA)** and **Quality Engineering (QE)**, ensuring robust and reliable backend applications through thorough testing.
+I'm a Software Engineer with over a year of experience, specializing in **backend development** and leveraging a strong foundation in **frontend technologies**. I’m passionate about designing scalable systems and exploring **Developer Operations (DevOps)** to build efficient, reliable, and robust applications.
 
-- 🔭 Currently wrapping up my Software Engineering course at [ALX Africa](https://www.alxafrica.com/).  
-- 🌱 Expanding my knowledge in **System Design** and **DevOps**.  
-- 👯 Open to collaborating on impactful open-source web projects.  
-- 💬 Feel free to ask me about *System Design, Backend Development, or QA/QE*!  
+- 🔭 Currently completing my **Software Engineering** program at [ALX Africa](https://www.alxafrica.com/).  
+- 🌱 Deepening my expertise in **System Design** and **DevOps**.  
+- 👯 Excited to collaborate on innovative and impactful open-source web projects.  
+- 💬 Ask me about *System Design, Backend Development, or QA/QE*!  
+  
 
 <hr>
 🚀 Current Project:
