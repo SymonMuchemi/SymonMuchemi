@@ -7,10 +7,10 @@ I'm a Software Engineer with over a year of experience, specializing in **backen
 - 👯 Excited to collaborate on innovative and impactful open-source web projects.  
 - 💬 Ask me about *System Design, Backend Development, or QA/QE*!  
   
-
 <hr>
-🚀 Current Project:
-- Building an e-commerce platform API to support scalable e-commerce applications.
+🚀 **Current Project:**  
+- Developing a robust and scalable **e-commerce platform API** designed to support dynamic and high-traffic online stores.
+
 
 ## Languages and Tools
 
