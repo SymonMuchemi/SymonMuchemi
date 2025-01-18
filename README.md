@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-I'm a Software Engineer with over two years of experience, specializing in **backend development** and leveraging a strong foundation in **frontend technologies**. I’m passionate about designing scalable systems and exploring **Developer Operations (DevOps)** to build efficient, reliable, and robust applications.
+I'm a Software Engineer with over two years of experience, specializing in **back-end development** and leveraging a strong foundation in **front-end technologies**. I’m passionate about designing scalable systems and exploring **Developer Operations (DevOps)** to build efficient, reliable, and robust applications.
 
 - 🔭 Currently completing my **Software Engineering** program at [ALX Africa](https://www.alxafrica.com/).  
 - 🌱 Deepening my expertise in **System Design** and **DevOps**.  
