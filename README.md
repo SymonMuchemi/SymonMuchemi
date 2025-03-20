@@ -9,7 +9,7 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
   
 <hr>
 🚀 Current Project:
-- Developing a robust and scalable e-commerce platform API designed to support dynamic and high-traffic online stores.
+- Deploying several projects on AWS and automating the deployment processes.
 
 
 ## Languages and Tools
