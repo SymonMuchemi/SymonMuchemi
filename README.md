@@ -9,7 +9,7 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
   
 <hr>
 🚀 Current Project:
-- Deploying several projects on AWS and automating the deployment processes.
+- Deploying several projects on AWS and automating the processes.
 
 
 ## Languages and Tools
