@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with over two years of experience, specializing in **back-end development** and leveraging a strong foundation in **front-end technologies**. I’m passionate about designing scalable systems and exploring **Developer Operations (DevOps)** to build efficient, reliable, and robust applications.
 
-- 🔭 Currently preparing for my **AWS Certification** exam.  
+- 🔭 Currently learning and applying **Frappe Development**.
 - 🌱 Deepening my expertise in **System Design** and **DevOps**.  
 - 👯 Excited to collaborate on innovative and impactful open-source web projects.  
 - 💬 Ask me about *System Design, Backend Development, or QA/QE*!  
