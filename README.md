@@ -6,10 +6,6 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
 - 🌱 Deepening my expertise in **System Design** and **DevOps**.  
 - 👯 Excited to collaborate on innovative and impactful **open-source projects**.  
 - 💬 Ask me about **System Design, Backend Development, or QA/QE**!  
-  
-<hr>
-🚀 Current Project:
-- Learning the fundamentals of GoLang.
 
 
 ## Languages and Tools
