@@ -4,12 +4,12 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
 
 - 🔭 Currently learning and applying **Frappe Development**.
 - 🌱 Deepening my expertise in **System Design** and **DevOps**.  
-- 👯 Excited to collaborate on innovative and impactful open-source web projects.  
-- 💬 Ask me about *System Design, Backend Development, or QA/QE*!  
+- 👯 Excited to collaborate on innovative and impactful **open-source projects**.  
+- 💬 Ask me about **System Design, Backend Development, or QA/QE**!  
   
 <hr>
 🚀 Current Project:
-- Deploying several projects on AWS and automating the processes.
+- Learning the fundamentals of GoLang.
 
 
 ## Languages and Tools
