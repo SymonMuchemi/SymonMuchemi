@@ -27,7 +27,9 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
 <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />  
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />  
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SymonMuchemi&label=Profile%20Views&color=430680&style=flat" alt="SymonMuchemi" /> </p>
 
 
 <h2  align="center">📫 Reach me on</h2>
@@ -35,5 +37,3 @@ I'm a Software Engineer with over two years of experience, specializing in **bac
   <a target="_blank"href="https://www.linkedin.com/in/symonmuchemi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/SymonMuchemi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:muchemi.developer@gmail.com?subject=Hello%Muchemi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://wa.me/+254703552982?text=Hey%20Muchemi,%20I%20%20Got%20your%20number%20from%20GitHub"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
