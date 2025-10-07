@@ -1,4 +1,4 @@
-# Hi there, I'm Simon 👋
+# Hi there, I'm Muchemi 👋
 
 I'm a Software Engineer with over two years of experience, specializing in **back-end development** and leveraging a strong foundation in **front-end technologies**. I’m passionate about designing scalable systems and exploring **Developer Operations (DevOps)** to build efficient, reliable, and robust applications.
 
